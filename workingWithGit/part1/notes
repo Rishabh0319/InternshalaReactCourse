@@ -1,0 +1,46 @@
+
+1-> git init
+
+👉 to to initialize the project folder
+
+
+
+2-> ls -a
+
+👉 it shows all the files and folders in current folder or directory
+
+
+
+3-> rm -rf .git
+
+👉 to delete the git folder
+
+
+
+4-> git status
+
+👉 to check the status of the file is tracked or untracked is it in staging area or not
+
+
+
+5-> git add .
+
+👉 add all files into staging area
+
+
+
+6-> git commit -m '<add some message hear before commit>'
+
+👉 to commit the staging area file 
+
+
+
+7-> git log
+
+👉 to show the history of previous commit
+
+
+
+8-> git show <hash code>
+
+👉 to show the detail of perticular commit
