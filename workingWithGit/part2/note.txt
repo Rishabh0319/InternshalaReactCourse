@@ -1,0 +1,25 @@
+*********************** WORKING WITH GIT PART2 **********************
+
+
+9-> git remote add origin <https://>
+
+👉 to add local repository to remote repository
+
+
+
+10-> git remote -v
+
+👉 to see the address of remote repository
+
+
+
+11-> git push origin master           // origin -> repository nick name
+                                      // master -> branch name
+
+👉 to push code from local Repository to remote Repository
+
+
+
+12-> git clone <https://>
+
+👉 to clone the project from Remote Repository

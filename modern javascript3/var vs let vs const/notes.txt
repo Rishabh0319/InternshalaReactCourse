@@ -1,0 +1,10 @@
+
+
+
+**scope of var
+
+--> scope essencially means where these variable are avlable for use. var declaration are globally scoped or function locally scoped.
+
+--> the scope is global when the var variable is declare outside a function block is avlable for use in the whole window.
+
+--> var is a function scope when it is declare with in a function. this means that it is avlable and can be accessed only with in that function
